@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sticha
+HostName                       thea.ecs.csus.edu
+ProcessIdentifier              20128
+ProcessCreationTime_UTC        1526615981
+ProcessCreationTime_Readable   Thu May 17 20:59:41 2018 PDT
+AppIdentifier                  /software/cadence/installs/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /gaia/class/student/sticha/CPE_151/CPE_151/ALU_4bit_tb/constraint/prop.cfg
+TimeEditLocked                 Thu May 17 21:44:45 2018 PDT

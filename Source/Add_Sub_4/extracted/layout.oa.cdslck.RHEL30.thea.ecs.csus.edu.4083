@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sticha
+HostName                       thea.ecs.csus.edu
+ProcessIdentifier              4083
+ProcessCreationTime_UTC        1526857080
+ProcessCreationTime_Readable   Sun May 20 15:58:00 2018 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /gaia/class/student/sticha/CPE_151/CPE_151/Add_Sub_4/extracted/layout.oa.cdslck
+TimeEditLocked                 Sun May 20 16:00:02 2018 PDT
