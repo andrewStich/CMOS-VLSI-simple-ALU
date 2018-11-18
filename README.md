@@ -2,6 +2,7 @@
 CMOS/VLSI design final project. We were asked to design and test a number of CMOS logic gates on the transistor level in order to create a 4-bit ALU that adds, subtracts, and multiplies.
 
 The end-goal of this project was to create an a 4-bit ALU that multiplied, added, and subtracted. It had two 4-bit inputs and a 2-bit select line that would select between the three operations. All transistor-level schematics, test-bench schematics, layouts, and test results can be found in the pdf files.
+This project was compiled and ran in cadence-virtuoso 6.
 
 ## Addition/Subtraction operation
 The addition/subtarction unit was comprised of 4 full adders that were cascaded. It had 5 output bits, the last one being the carry out if addition was selected or the two's compliment identifier if subtraction was selected. These 5 output bits were then sent to the first input of an an 8-bit 2-to-1 mux whose select signal would be low when in addition/subtraction mode.
