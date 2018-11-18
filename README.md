@@ -1,4 +1,4 @@
-# CMOS-VLSI-simple-ALU
+# CMOS and VLSI design: simple ALU
 CMOS/VLSI design final project. We were asked to design and test a number of CMOS logic gates on the transistor level in order to create a 4-bit ALU that adds, subtracts, and multiplies.
 
 The end-goal of this project was to create an a 4-bit ALU that multiplied, added, and subtracted. It had two 4-bit inputs and a 2-bit select line that would select between the three operations. All transistor-level schematics, test-bench schematics, layouts, and test results can be found in the pdf files.
